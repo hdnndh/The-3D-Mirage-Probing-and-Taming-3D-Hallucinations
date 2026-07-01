@@ -3,7 +3,7 @@
 <p align="center">
 <a href=""><img alt="Paper" src="https://img.shields.io/badge/arXiv-TBD-b31b1b.svg"/></a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/></a>
-<a href="https://huggingface.co/hdnndh/3D-Mirage"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-HuggingFace-yellow"/></a>
+<a href="https://huggingface.co/datasets/3dmirage/3D-Mirage"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-HuggingFace-yellow"/></a>
 </p>
 
 <p align="center">
