@@ -1,7 +1,7 @@
 <h1 align="center">The 3D Mirage:<br>Probing and Taming 3D Hallucinations</h1>
 
 <p align="center">
-<a href=""><img alt="Paper" src="https://img.shields.io/badge/arXiv-TBD-b31b1b.svg"/></a>
+<a href=""><img alt="Paper" src="https://arxiv.org/pdf/2512.15423v2"/></a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/></a>
 <a href="https://huggingface.co/datasets/3dmirage/3D-Mirage"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-HuggingFace-yellow"/></a>
 </p>
