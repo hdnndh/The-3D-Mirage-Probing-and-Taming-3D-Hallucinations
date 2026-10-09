@@ -14,6 +14,7 @@
 Hoang Nguyen*, Xiaohao Xu*†, Xiaonan Huang<br>
 University of Michigan<br>
 * Equal Contribution &nbsp; † Project Lead
+ECCV 2026 Accepted paper
 </i></p>
 
 ---
