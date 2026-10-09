@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href=""><b>Paper</b></a> · <a href="3dmirage_demo.ipynb"><b>Training / Eval Notebook</b></a>
+<a href=""><b>Paper</b></a> · <a href="https://eccv.ecva.net/virtual/2026/poster/5997"><b>Training / Eval Notebook</b></a>
 </p>
 
 <p align="center"><i>
