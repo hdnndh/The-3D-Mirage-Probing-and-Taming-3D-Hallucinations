@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href=""><b>ECCV 2026 Poster</b></a> · <a href="https://eccv.ecva.net/virtual/2026/poster/5997"><b>Training / Eval Notebook</b></a>
+<a href="https://eccv.ecva.net/virtual/2026/poster/5997"><b>ECCV 2026 Poster</b></a> · <a href="https://github.com/hdnndh/The-3D-Mirage-Probing-and-Taming-3D-Hallucinations/blob/main/3dmirage_demo.ipynb"><b>Training / Eval Notebook</b></a>
 </p>
 
 <p align="center"><i>
